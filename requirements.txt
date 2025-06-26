@@ -1,0 +1,7 @@
+streamlit
+pandas
+geopy
+requests
+beautifulsoup4
+groq
+python-dotenv
